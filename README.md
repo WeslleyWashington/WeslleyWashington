@@ -1,4 +1,4 @@
-### Olá, Eu sou o Weslley Washington! Desenvolvedor Front-end 👋
+### Olá, Eu sou o Weslley Washington! Desenvolvedor Front-end Jr. 👋
 
 <div align="center">
   <a href="https://github.com/WeslleyWashington">
