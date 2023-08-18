@@ -17,6 +17,9 @@
   <img align="center" alt="Weslley-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
   <img align="center" alt="Weslley-Reactjs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+  <img align="center" alt="Weslley-php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  
   
   
   <img align="right" alt="WW-pic" height="100" style="border-radius:20px;" src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200">
