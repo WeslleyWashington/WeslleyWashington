@@ -1,4 +1,4 @@
-### Hello, I'm Wesley Washington! Front-end Developer Jr. 👋
+### Hello, I'm Wesley Washington! Full-Stack Developer Jr. 👋
 
 <div align="center">
   <a href="https://github.com/WeslleyWashington">
